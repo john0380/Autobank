@@ -9,7 +9,9 @@ All rights reserved
 
 Autobank was originally built and tested on a Mac but has recently also been made compatible with Linux (thanks to Milos Stanojevic for his help with this).  The interface may look slightly different on Linux compared with how it looks on a Mac in the tutorial videos, but the differences should be merely aesthetic.  There are quite a few dependencies required for Autobank to run, and details of how to install these are given below.  If you hit any problems with installation or any bugs in the software please do let me know at the email above.  Please also bear in mind that this is currently a beta version of Autobank so there are likely to still be a few creases here and there that need ironing out.
 
-First, if using a Mac, install Xcode from the App Store (if installing on Linux skip this step and go to the step below where Git gets installed).. if Xcode is already installed, update it to the latest version, again from the App Store.  Then install the command line tools by opening Terminal, and executing the following command:
+First, unzip Autobank.zip
+
+If using a Mac, install Xcode from the App Store (if installing on Linux skip this step and go to the step below where Git gets installed).. if Xcode is already installed, update it to the latest version, again from the App Store.  Then install the command line tools by opening Terminal, and executing the following command:
 
 xcode-select --install
 
